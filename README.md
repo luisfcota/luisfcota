@@ -1,5 +1,6 @@
 - Hola, me llamo Luis Fernando Cota
-- Soy programador en Analisis de Datos
+- Me especializo en la programación en Analisis de Datos
+- Trabajo como Analista de Reisgo Operativo en Grupo FINDEP
 - Me gusta mucho el aprendizaje constante, entrar a Bootcamps, cursos y leer libros
 - Soy amante de la pezca, acampar en la playa y jugar poker
 - Cinefilo
