@@ -1,9 +1,23 @@
-- Hola, me llamo Luis Fernando Cota
-- Me especializo en la programación en Analisis de Datos
-- Trabajo como Analista de Reisgo Operativo en Grupo FINDEP
-- Me gusta mucho el aprendizaje constante y leer libros
-- Soy amante de la pezca, acampar en la playa y jugar poker
-- Cinefilo
+## Sobre Mí
+
+- **Presentación**  
+  ![Hola](https://img.shields.io/badge/-Hola-FF6F61?style=flat-square&logo=handshake&logoColor=white) Hola, me llamo Luis Fernando Cota
+
+- **Especialización**  
+  ![Análisis de Datos](https://img.shields.io/badge/-Análisis%20de%20Datos-00C4B4?style=flat-square&logo=chart-bar&logoColor=white) Programación en Análisis de Datos
+
+- **Trabajo**  
+  ![Analista](https://img.shields.io/badge/-Analista-FFD700?style=flat-square&logo=briefcase&logoColor=black) Analista de Riesgo Operativo en Grupo FINDEP
+
+- **Intereses**  
+  ![Aprendizaje](https://img.shields.io/badge/-Aprendizaje-4CAF50?style=flat-square&logo=book&logoColor=white) Aprendizaje constante  
+  ![Libros](https://img.shields.io/badge/-Libros-8D5524?style=flat-square&logo=book-open&logoColor=white) Leer libros
+
+- **Hobbies**  
+  ![Pesca](https://img.shields.io/badge/-Pesca-2196F3?style=flat-square&logo=fish&logoColor=white) Amante de la pesca  
+  ![Acampar](https://img.shields.io/badge/-Acampar-FF9800?style=flat-square&logo=campground&logoColor=white) Acampar en la playa  
+  ![Póker](https://img.shields.io/badge/-Póker-4CAF50?style=flat-square&logo=playing-card&logoColor=white) Jugar póker  
+  ![Cinéfilo](https://img.shields.io/badge/-Cinéfilo-E91E63?style=flat-square&logo=movie&logoColor=white) Cinéfilo
 
 ## Lenguajes y Herramientas
 
