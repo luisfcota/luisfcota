@@ -1,6 +1,6 @@
 ## Sobre Mí
 
-![Análisis de Datos y Ecuaciones Matemáticas](https://github.com/tu-usuario/tu-repositorio/raw/main/assets/data-math-animation.gif)
+![Ecuaciones Matemáticas](https://media.giphy.com/media/26ufm9j2v0yI2qZ5K/giphy.gif)
 
 Hola, me llamo Luis Fernando Cota, me especializo en la programación en Analisis de Datos y trabajo como Analista de Reisgo Operativo en Grupo FINDEP.
 
