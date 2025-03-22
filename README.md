@@ -1,4 +1,5 @@
 ## Sobre Mí
+![zPbnEgxsPJOJSD3qfr-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/27964a44-ff5a-4094-ab6d-498446a23a35)
 
 Hola, me llamo Luis Fernando Cota, me especializo en la programación en Analisis de Datos y trabajo como Analista de Reisgo Operativo en Grupo FINDEP.
 
@@ -25,6 +26,3 @@ En mis ratos libres me gusta leer libros, pezcar, jugar poker y ver peliculas.
   [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6682744113) 
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisfcota@gmail.com) 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfcota/)
-
-![zPbnEgxsPJOJSD3qfr-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/27964a44-ff5a-4094-ab6d-498446a23a35)
-
