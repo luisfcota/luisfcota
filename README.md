@@ -1,8 +1,8 @@
 ## Sobre Mí
 
-Hola, me llamo Luis Fernando Cota, me especializo en la programación en Analisis de Datos y trabajo como Analista de Reisgo Operativo en Grupo FINDEP.
+**Hola, me llamo Luis Fernando Cota, me especializo en la programación en Analisis de Datos y trabajo como Analista de Reisgo Operativo en Grupo FINDEP.
 
-En mis ratos libres me gusta leer libros, pezcar, jugar poker y ver peliculas.
+En mis ratos libres me gusta leer libros, pezcar, jugar poker y ver peliculas.**
 
  ![Análisis de Datos](https://img.shields.io/badge/-Análisis%20de%20Datos-00C4B4?style=flat-square&logo=chart-bar&logoColor=white)
 
