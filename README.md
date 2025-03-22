@@ -1,6 +1,7 @@
 ## Sobre Mí
 
-Hola, me llamo Luis Fernando Cota, me especializo en la programación     ![zPbnEgxsPJOJSD3qfr-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/27964a44-ff5a-4094-ab6d-498446a23a35)
+![zPbnEgxsPJOJSD3qfr-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/27964a44-ff5a-4094-ab6d-498446a23a35)
+Hola, me llamo Luis Fernando Cota, me especializo en la programación
 en Analisis de Datos y trabajo como Analista de Reisgo Operativo en Grupo FINDEP.
 
 En mis ratos libres me gusta leer libros, pezcar, jugar poker y ver peliculas.
