@@ -5,21 +5,20 @@
 - Soy amante de la pezca, acampar en la playa y jugar poker
 - Cinefilo
 
-
-Tecnologias
 ## Lenguajes y Herramientas
 
+### Lenguajes
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Formación
+### Herramientas de Datos
+![Big Query](https://img.shields.io/badge/-Big%20Query-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
-![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white)
-![Microsoft Learn](https://img.shields.io/badge/-Microsoft%20Learn-00BCF2?style=flat-square&logo=microsoft&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
-![DataCamp](https://img.shields.io/badge/-DataCamp-03AB69?style=flat-square&logo=datacamp&logoColor=white)
-![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
-
+### Herramientas de Google
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=google-data-studio&logoColor=white)
+![Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white)
