@@ -25,3 +25,5 @@ En mis ratos libres me gusta leer libros, pezcar, jugar poker y ver peliculas.
   [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6682744113) 
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisfcota@gmail.com) 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfcota/)
+
+  ![Visitas a mi perfil](https://camo.githubusercontent.com/0d861d94c58e325e0438643eaf53a056e5a51b935a60ff889684bbf5dd67cfe3/68747470733a2f2f70726f66696c652d636f756e7465722e64656e6f2e6465762f74755f636c6176652f636f756e742e737667)
