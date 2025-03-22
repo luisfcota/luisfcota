@@ -1,22 +1,18 @@
 ## Sobre Mí
 
-- **Presentación**
   ![Hola](https://img.shields.io/badge/-Hola-FF6F61?style=flat-square&logo=handshake&logoColor=white) Me llamo Luis Fernando Cota
-
-- **Especialización**  
   Programación en ![Análisis de Datos](https://img.shields.io/badge/-Análisis%20de%20Datos-00C4B4?style=flat-square&logo=chart-bar&logoColor=white)
-
-- **Trabajo**  
-  ![Analista](https://img.shields.io/badge/-Analista-FFD700?style=flat-square&logo=briefcase&logoColor=black) de Riesgo Operativo en Grupo FINDEP
-
-- **Intereses**  
+  ![Analista](https://img.shields.io/badge/-Analista-FFD700?style=flat-square&logo=briefcase&logoColor=black) de Riesgo Operativo en Grupo FINDEP 
   ![Aprendizaje](https://img.shields.io/badge/-Aprendizaje-4CAF50?style=flat-square&logo=book&logoColor=white) constante  
-  Leer ![Libros](https://img.shields.io/badge/-Libros-8D5524?style=flat-square&logo=book-open&logoColor=white) Leer
+  Leer ![Libros](https://img.shields.io/badge/-Libros-8D5524?style=flat-square&logo=book-open&logoColor=white)
 
 - **Hobbies**  
-  Amante de la ![Pesca](https://img.shields.io/badge/-Pesca-2196F3?style=flat-square&logo=fish&logoColor=white) 
-  ![Acampar](https://img.shields.io/badge/-Acampar-FF9800?style=flat-square&logo=campground&logoColor=white) en la playa  
-  Jugar ![Póker](https://img.shields.io/badge/-Póker-4CAF50?style=flat-square&logo=playing-card&logoColor=white) 
+  Amante de la ![Pesca](https://img.shields.io/badge/-Pesca-2196F3?style=flat-square&logo=fish&logoColor=white)
+  
+  ![Acampar](https://img.shields.io/badge/-Acampar-FF9800?style=flat-square&logo=campground&logoColor=white) en la playa
+  
+  Jugar ![Póker](https://img.shields.io/badge/-Póker-4CAF50?style=flat-square&logo=playing-card&logoColor=white)
+  
   ![Cinéfilo](https://img.shields.io/badge/-Cinéfilo-E91E63?style=flat-square&logo=movie&logoColor=white)
 
 ## Lenguajes y Herramientas
