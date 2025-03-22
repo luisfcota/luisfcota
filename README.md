@@ -26,4 +26,4 @@ En mis ratos libres me gusta leer libros, pezcar, jugar poker y ver peliculas.
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisfcota@gmail.com) 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfcota/)
 
-  ![Ecuaciones Matemáticas](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW96ZmF5aXY1Mzh4Z3NjdGt1NTg2dnJuaHAwaWp0NHI2MHQxanYxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif)
+  ![Ecuaciones Matemáticas](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW96ZmF5aXY1Mzh4Z3NjdGt1NTg2dnJuaHAwaWp0NHI2MHQxanYxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif) ![Ecuaciones Matemáticas](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNyM25pZTk2b2VqbjY5eGhqMHM2dDA1Z3Z0MmNiZHNqbGtxeGFxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J3z5cm55zPHUyM8/giphy.gif)
