@@ -13,15 +13,19 @@ En mis ratos libres me gusta leer libros, pezcar, jugar poker y ver peliculas.
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Big Query](https://img.shields.io/badge/-Big%20Query-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=google-data-studio&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Contacto
 
