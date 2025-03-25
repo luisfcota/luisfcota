@@ -9,7 +9,7 @@ En mis ratos libres me gusta leer libros, pezcar, jugar poker y ver peliculas.
 
 ## Lenguajes y Herramientas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Big Query](https://img.shields.io/badge/-Big%20Query-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
