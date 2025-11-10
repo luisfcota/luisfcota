@@ -16,7 +16,6 @@ En mis ratos libres me gusta leer libros, pescar, jugar póker y ver películas.
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-34A853?style=for-the-badge&logo=google&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleapps&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4E9D?style=for-the-badge&logo=n8n&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-5C2D91?style=for-the-badge&logo=azurefunctions&logoColor=white)
