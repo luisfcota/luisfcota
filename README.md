@@ -2,7 +2,7 @@
 
 ![zPbnEgxsPJOJSD3qfr-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/27964a44-ff5a-4094-ab6d-498446a23a35) ![Análisis de Datos](https://img.shields.io/badge/-Análisis%20de%20Datos-00C4B4?style=flat-square&logo=chart-bar&logoColor=white)
 
-Hola, me llamo Luis Fernando Cota, soy programador Data Analyst y trabajo como Analista de Riesgo Operativo en Grupo FINDEP.
+Hola, me llamo Luis Fernando Cota, soy Analista de Datos y Desarrollador Python con experiencia en automatización, extracción y análisis de datos. Enfocado en el desarrollo de dashboards, agentes inteligentes y procesos de integración con APIs. Experiencia en Python, SQL y Google Cloud para generar insights y soluciones automatizadas en tiempo real. trabajo como Analista de Riesgo Operativo en Grupo FINDEP.
 
 En mis ratos libres me gusta leer libros, pescar, jugar póker y ver películas.
 
