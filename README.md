@@ -2,9 +2,9 @@
 
 ![zPbnEgxsPJOJSD3qfr-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/27964a44-ff5a-4094-ab6d-498446a23a35)
 
-Hola, me llamo Luis Fernando Cota, soy Analista de Datos y Desarrollador Python con experiencia en automatización, extracción y análisis de datos. Enfocado en el desarrollo de dashboards, agentes inteligentes y procesos de integración con APIs. Experiencia en Python, SQL y Google Cloud para generar insights y soluciones automatizadas en tiempo real. trabajo como Analista de Riesgo Operativo en Grupo FINDEP.
+Hola, me llamo Luis Fernando Cota, soy Analista de Datos y Desarrollador Python, tengo experiencia en automatización, extracción y análisis de datos. Me enfoco en el desarrollo de dashboards, agentes inteligentes y procesos de analisis de datos. Cuento con experiencia solida en Python y SQL para generar insights y soluciones automatizadas. trabajo como Analista de datos en el area de Riesgo Operativo en Grupo FINDEP.
 
-En mis ratos libres me gusta leer libros, pescar, jugar póker y ver películas.
+Hobbies: Leer, pescar, jugar póker y ver películas.
 
 ## Lenguajes y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,12 +15,8 @@ En mis ratos libres me gusta leer libros, pescar, jugar póker y ver películas.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_ADK-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleapps&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4E9D?style=for-the-badge&logo=n8n&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-5C2D91?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![APIs Integration](https://img.shields.io/badge/API_Integration-00897B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-00ACC1?style=for-the-badge&logo=zapier&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
@@ -32,7 +28,6 @@ En mis ratos libres me gusta leer libros, pescar, jugar póker y ver películas.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
-
 
 ## Contacto
 
