@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Hola, soy Luis Fernando Cota, Analista de Datos y Desarrollador Python. Me especializo en automatización, análisis de datos, desarrollo de dashboards y agentes inteligentes, usando Python y SQL para generar insights y soluciones automatizadas. Trabajo como Analista de Datos en el área de Riesgo Operativo en Grupo FINDEP.<br><br>Hobbies: Leer, pescar, jugar póker y ver películas</h3>
+<h3 align="left">Hola, soy Luis Fernando Cota, Analista de Datos y Desarrollador Python. Me especializo en automatización, análisis de datos, desarrollo de dashboards y agentes inteligentes, usando Python y SQL para generar insights y soluciones automatizadas. Trabajo como Analista de Datos en el área de Riesgo Operativo en Grupo FINDEP.<br><br>Hobbies: Leer, pescar, jugar póker y ver películas</h3>
 
 ###
 
@@ -47,5 +47,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">![Contador de Visitas](https://profile-counter.dev/luisfcota/count.svg)</p>
 
 ###
