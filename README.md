@@ -50,6 +50,8 @@
 
 ###
 
-<p align="left">![Contador de Visitas](https://profile-counter.dev/luisfcota/count.svg)</p>
+<p align="center">
+  <img src="https://count.getloli.com/get/@luisfcota?theme=3d-num" />
+</p>
 
 ###
