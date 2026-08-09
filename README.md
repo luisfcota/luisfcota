@@ -47,9 +47,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="30" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-![Visitas a mi perfil (nuevo)](https://profile-counter.deno.dev/luisfcota/count.svg)
-
-###
