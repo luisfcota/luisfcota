@@ -10,7 +10,7 @@
   <b>Hobbies:</b> Leer, pescar, jugar póker y ver películas.
 </p>
 
-### 🛠️ Stack Tecnológico:
+### Stack Tecnológico:
 
 **Análisis de Datos, IA & Backend**
 <div align="left">
