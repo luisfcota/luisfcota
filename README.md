@@ -5,7 +5,7 @@
 <p align="left">
   Hola, soy <b>Luis Fernando Cota</b>, Analytics Engineer y Analista de Datos con experiencia en transformar datos complejos en soluciones estratégicas. Me especializo en la extracción y análisis de información, automatización de flujos de trabajo y el desarrollo de agentes de Inteligencia Artificial para optimizar procesos y la toma de decisiones.
   <br><br>
-  Actualmente trabajo en el área de Riesgo Operativo en <b>Grupo FINDEP</b>, donde me enfoco en generar insights para el negocio, desarrollar dashboards interactivos y automatizar operativas.
+  Actualmente trabajo como Especialista Data Analyst <b>Grupo FINDEP</b>, donde me enfoco en generar insights para el negocio, desarrollar dashboards interactivos y automatizar operativas.
   <br><br>
   <b>Hobbies:</b> Leer, pescar, jugar póker y ver películas.
 </p>
