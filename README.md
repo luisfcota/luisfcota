@@ -5,14 +5,12 @@
 <p align="left">
   Hola, soy <b>Luis Fernando Cota</b>, Analytics Engineer y Analista de Datos con experiencia en transformar datos complejos en soluciones estratégicas. Me especializo en la extracción y análisis de información, automatización de flujos de trabajo y el desarrollo de agentes de Inteligencia Artificial para optimizar procesos y la toma de decisiones.
   <br><br>
-  Actualmente trabajo como Especialista Data Analyst <b>Grupo FINDEP</b>, donde me enfoco en generar insights para el negocio, desarrollar dashboards interactivos y automatizar operativas.
+  Actualmente trabajo como Especialista Data Analyst en <b>Grupo FINDEP</b>, donde me enfoco en generar insights para el negocio, desarrollar dashboards interactivos y automatizar operativas.
   <br><br>
   <b>Hobbies:</b> Leer, pescar, jugar póker y ver películas.
 </p>
 
-### Stack Tecnológico:
-
-**Análisis de Datos, IA & Backend**
+### Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo" title="Python" />
   <img width="12" />
@@ -25,7 +23,6 @@
 
 <br>
 
-**Bases de Datos & Cloud**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgresql logo" title="PostgreSQL" />
   <img width="12" />
@@ -38,20 +35,6 @@
 
 <br>
 
-**Desarrollo Frontend & Herramientas**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="nextjs logo" title="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="38" alt="kubernetes logo" title="Kubernetes" />
-</div>
-
-<br>
-
-**Entorno & Control de Versiones**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo" title="Git" />
   <img width="12" />
@@ -61,7 +44,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo" title="VS Code" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="38" alt="notion logo" title="Notion" />
 </div>
 
 ### Contacto:
